@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 Привет, я Олег
 
-<!--
-**OleG140405/OleG140405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент Финансового университета при Правительстве РФ (ИБ)
+🛡️ Развиваюсь в сфере SOC, анализа трафика, Threat Intelligence и расследования инцидентов.
+🚀 Публикую практические проекты по кибербезопасности, автоматизации и анализу угроз.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Стек & навыки
+
+🛠️ Инструменты
+
+🌐 Сети и протоколы
+ • 🔗 TCP / UDP / IP
+ • 🌐 DNS / DHCP
+ • 🧩 OSI Model / Active Directory
+ • 🔐 TLS / SSL
+
+🔬 Области интересов
+ • SOC Monitoring
+ • Network Forensics
+ • Threat Intelligence
+ • Malware Analysis
+ • Incident Response
+ • Автоматизация расследований (Python / SIEM)
+
+⸻
+
+📊 GitHub Статистика
+
+<div align="center">
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OleG140405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=OleG140405&theme=tokyonight&hide_border=true" />
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleG140405&layout=compact&theme=tokyonight&hide_border=true" />
+
+
+</div>
+
+
+🔥 Мои проекты (на данный момент):
+ • 🛡️ SOC-Labs — разбор инцидентов, расследования, лог-анализ
+ • 📡 Traffic-Analysis — анализ PCAP, фильтры, скрипты автоматизации
+ • 🧬 Malware-Lab — анализ вредоносных образцов (YARA, Sandbox, запись артефактов)
+ • 🔍 ThreatIntel-Tools — автоматизация TI, проверки IoC, API интеграции
+
+📫 Контакты:
+
+📧 oleg.bilko2005@gmail.com
