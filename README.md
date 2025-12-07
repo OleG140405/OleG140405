@@ -25,6 +25,7 @@
  ─────────────────────────────
 
 🔬 Области интересов
+
  • SOC Monitoring
  
  • Network Forensics
